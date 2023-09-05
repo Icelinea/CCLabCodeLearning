@@ -1,4 +1,6 @@
 # CCLabCodeLearning
+每周任务的 markdown 都会展示在主页上，且仅展示当周学习笔记，而 **疑问与待解决 Issue** 板块若仍有未解决任务则会继承
+
 ---
 ## Week1
 ### 简要介绍
