@@ -1,4 +1,11 @@
 ## Week1
+### 任务
+Week1
+时间：2023.8.31 - 2023.9.8
+图领域
+1.精读GCN原文
+2.阅读并理解GCN的pytorch代码：https://github.com/tkipf/pygcn，并在本地运行该代码，在Cora数据集上得到81%以上的分类准确率
+3.在Citeseer和Pumbed数据集上运行GCN代码，分别达到至少69%和78%的准确率
 ### 简要介绍
 相对于[原 pygcn 项目](https://github.com/tkipf/pygcn)，主要代码和模块为 ```train_v2``` 和 ```models```，且仅将 ```utils``` 模块中的函数 ```accuracy``` 并入 ```train_v2``` 代码，以及日志辅助文件 ```log_file```；
 最终版本 ```train_v2``` 对三个数据集的运行结果在 ```week1/log``` 路径下；
